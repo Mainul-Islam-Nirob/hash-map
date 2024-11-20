@@ -144,3 +144,6 @@ map.remove("age");
 console.log(map.has("age")); 
 map.clear();
 console.log(map.length());  
+
+
+
